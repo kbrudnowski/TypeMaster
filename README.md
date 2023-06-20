@@ -27,3 +27,30 @@ TypeMaster is a powerful and intuitive typing speed test application designed to
 
      ```bash
    git clone https://github.com/your-username/typemaster.git
+
+2. Change to the project directory:
+
+     ```bash
+     cd typemaster
+
+3. Run the application using Python:
+
+     ```bash
+     python typemaster.py
+
+Make sure you have Python installed on your machine.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
+
+## Acknowledgments
+
+This application was developed as a demonstration of using the Tkinter library for creating GUI applications in Python.
+
+
+
