@@ -24,5 +24,5 @@ TypeMaster is a powerful and intuitive typing speed test application designed to
 ## Installation
 
 1. Clone the repository to your local machine:
-'''bash
-git clone https://github.com/your-username/typing-speed-test.git
+  '''bash
+  git clone https://github.com/your-username/typing-speed-test.git
