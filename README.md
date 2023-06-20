@@ -2,6 +2,7 @@
 
 TypeMaster is a powerful and intuitive typing speed test application designed to help users master their typing skills. This app provides an engaging and interactive platform for users to assess and improve their typing speed and accuracy. With a diverse range of random sample texts, TypeMaster challenges users to type quickly and accurately, measuring their words per minute (WPM) and providing real-time feedback on errors.
 
+
 ## Features
 
 - Randomly generated sample texts for a fresh typing experience every time.
@@ -9,6 +10,7 @@ TypeMaster is a powerful and intuitive typing speed test application designed to
 - High score tracking to monitor and strive for personal improvement.
 - User-friendly interface with intuitive controls and clear result displays.
 - Customizable settings to tailor the typing experience to individual preferences.
+
 
 ## Usage
 
@@ -20,6 +22,7 @@ TypeMaster is a powerful and intuitive typing speed test application designed to
 6. The application will calculate your words per minute (WPM) and display the result in a message box.
 7. You can click "Next one" to load a new sample text and start again.
 8. The high score (maximum WPM achieved) will be displayed at the bottom of the application window.
+
 
 ## Installation
 
@@ -40,13 +43,16 @@ TypeMaster is a powerful and intuitive typing speed test application designed to
 
 Make sure you have Python installed on your machine.
 
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
+
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
+
 
 ## Acknowledgments
 
